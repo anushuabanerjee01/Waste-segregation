@@ -1,0 +1,4 @@
+Dataset link: https://drive.google.com/drive/folders/17oqAGh4qBNpXUd5WR0IjMBgmX-_klfs7?usp=sharing
+Code refernces from https://github.com/Tessellate-Imaging/Monk_Object_Detection
+For annotation conversion: https://github.com/Tessellate-Imaging/Monk_Object_Detection/blob/master/example_notebooks/5_pytorch_retinanet/VOC%20Type%20to%20Coco%20-%20Via%20Monk%20Type%20Annotation.ipynb
+For refernces in trash detection: https://github.com/Tessellate-Imaging/Monk_Object_Detection/blob/master/application_model_zoo/Example%20-%20Trash%20(Waste)%20Detection.ipynb
